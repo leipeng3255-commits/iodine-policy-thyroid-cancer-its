@@ -18,7 +18,7 @@ No pooled cross-country effect is calculated.
 - Repository custodian: GitHub account `leipeng3255-commits`, confirmed by the
   authenticated GitHub owner selection used to create this deposit.
 - Repository: `https://github.com/leipeng3255-commits/iodine-policy-thyroid-cancer-its`.
-- Planned archived release: `v1.0.0`.
+- Archived release: [`v1.0.0`](https://github.com/leipeng3255-commits/iodine-policy-thyroid-cancer-its/releases/tag/v1.0.0).
 - Manuscript and software creators are listed in `CITATION.cff` and
   `.zenodo.json`. GitHub account ownership does not change authorship.
 
@@ -75,11 +75,13 @@ endorse this analysis.
 
 ## Citation
 
-Use the software citation exposed by GitHub from `CITATION.cff`. The permanent
-Zenodo DOI will be added to the manuscript and this README after the first
-archived release is published.
+Use the software citation exposed by GitHub from `CITATION.cff`. The immutable
+version-of-record is archived at Zenodo under
+[`10.5281/zenodo.22040562`](https://doi.org/10.5281/zenodo.22040562). The concept
+DOI for all repository versions is
+[`10.5281/zenodo.22040561`](https://doi.org/10.5281/zenodo.22040561).
 
 ## Release status
 
-Scientific content is frozen. Public release and DOI minting are the remaining
-external deposit actions.
+Scientific content is frozen. Public release `v1.0.0` and its Zenodo archive
+were completed on 21 August 2026.

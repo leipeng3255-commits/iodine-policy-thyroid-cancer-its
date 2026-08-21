@@ -3,6 +3,7 @@ message: "If you use this software or its derived results, please cite the archi
 title: "Iodine-policy transitions and thyroid-cancer incidence: reproducibility code and aggregate analytic data"
 type: software
 version: 1.0.0
+doi: 10.5281/zenodo.22040562
 authors:
   - family-names: Liu
     given-names: Xinxin
@@ -16,6 +17,7 @@ authors:
     given-names: Lei
     affiliation: "School of Life Sciences and Food Health, Suzhou University, Suzhou 234000, China"
 repository-code: "https://github.com/leipeng3255-commits/iodine-policy-thyroid-cancer-its"
+url: "https://doi.org/10.5281/zenodo.22040562"
 license: MIT
 keywords:
   - iodine fortification
