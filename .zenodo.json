@@ -1,0 +1,26 @@
+{
+  "title": "Iodine-policy transitions and thyroid-cancer incidence: reproducibility code and aggregate analytic data",
+  "description": "Country-specific ecological interrupted time-series code and aggregate analytic data for Australia, New Zealand, and Croatia. Policy, population UIC, and registry outcomes are kept as separate evidence layers. The repository does not estimate individual exposure or a causal effect and does not pool countries.",
+  "creators": [
+    {"name": "Liu, Xinxin", "affiliation": "School of Life Sciences and Food Health, Suzhou University, Suzhou 234000, China"},
+    {"name": "Li, Wanrong", "affiliation": "School of Life Sciences and Food Health, Suzhou University, Suzhou 234000, China"},
+    {"name": "Zhao, Fang", "affiliation": "School of Life Sciences and Food Health, Suzhou University, Suzhou 234000, China"},
+    {"name": "Wang, Weiwei", "affiliation": "School of Life Sciences and Food Health, Suzhou University, Suzhou 234000, China"},
+    {"name": "Peng, Lei", "affiliation": "School of Life Sciences and Food Health, Suzhou University, Suzhou 234000, China"}
+  ],
+  "version": "1.0.0",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "language": "eng",
+  "keywords": [
+    "iodine fortification",
+    "thyroid cancer",
+    "interrupted time series",
+    "ecological analysis",
+    "Australia",
+    "New Zealand",
+    "Croatia",
+    "reproducibility"
+  ]
+}

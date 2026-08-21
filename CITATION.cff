@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software or its derived results, please cite the archived release."
+title: "Iodine-policy transitions and thyroid-cancer incidence: reproducibility code and aggregate analytic data"
+type: software
+version: 1.0.0
+authors:
+  - family-names: Liu
+    given-names: Xinxin
+  - family-names: Li
+    given-names: Wanrong
+  - family-names: Zhao
+    given-names: Fang
+  - family-names: Wang
+    given-names: Weiwei
+  - family-names: Peng
+    given-names: Lei
+    affiliation: "School of Life Sciences and Food Health, Suzhou University, Suzhou 234000, China"
+repository-code: "https://github.com/leipeng3255-commits/iodine-policy-thyroid-cancer-its"
+license: MIT
+keywords:
+  - iodine fortification
+  - thyroid cancer
+  - interrupted time series
+  - ecological analysis
+  - reproducibility
