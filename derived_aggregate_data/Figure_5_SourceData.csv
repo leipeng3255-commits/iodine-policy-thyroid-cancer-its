@@ -1,0 +1,66 @@
+"country","ISO3","domain","cell_label","domain_group","evidence_type","pooled","publication_category"
+"Australia","AUS","Documented
+iodine policy","Yes
+Bread, 2009","Policy and UIC context","QUALITATIVE_CATEGORY_NOT_NUMERIC_SCORE","NO","Policy and UIC context"
+"Australia","AUS","Population-UIC
+corroboration","Moderate","Policy and UIC context","QUALITATIVE_CATEGORY_NOT_NUMERIC_SCORE","NO","population_UIC_corroboration_grade"
+"Australia","AUS","Pre-policy
+incidence rise","Yes","Temporal incidence","QUALITATIVE_CATEGORY_NOT_NUMERIC_SCORE","NO","Temporal incidence"
+"Australia","AUS","Post-5-year
+slope change","No clear change","Temporal incidence","QUALITATIVE_CATEGORY_NOT_NUMERIC_SCORE","NO","Temporal incidence"
+"Australia","AUS","Latency
+robustness","No clear
+acceleration","Temporal incidence","QUALITATIVE_CATEGORY_NOT_NUMERIC_SCORE","NO","Temporal incidence"
+"Australia","AUS","Mortality
+acceleration","No","Mortality","QUALITATIVE_CATEGORY_NOT_NUMERIC_SCORE","NO","Mortality"
+"Australia","AUS","Histology
+evidence","Moderate
+Supplement","Histology","QUALITATIVE_CATEGORY_NOT_NUMERIC_SCORE","NO","Histology"
+"Australia","AUS","Diagnostic-era
+concern","High","Bias/context","QUALITATIVE_CATEGORY_NOT_NUMERIC_SCORE","NO","Bias/context"
+"Australia","AUS","Source-continuity
+concern","Low","Bias/context","QUALITATIVE_CATEGORY_NOT_NUMERIC_SCORE","NO","Bias/context"
+"New Zealand","NZL","Documented
+iodine policy","Yes
+Bread, 2009","Policy and UIC context","QUALITATIVE_CATEGORY_NOT_NUMERIC_SCORE","NO","Policy and UIC context"
+"New Zealand","NZL","Population-UIC
+corroboration","Strong","Policy and UIC context","QUALITATIVE_CATEGORY_NOT_NUMERIC_SCORE","NO","population_UIC_corroboration_grade"
+"New Zealand","NZL","Pre-policy
+incidence rise","Yes","Temporal incidence","QUALITATIVE_CATEGORY_NOT_NUMERIC_SCORE","NO","Temporal incidence"
+"New Zealand","NZL","Post-5-year
+slope change","Decrease","Temporal incidence","QUALITATIVE_CATEGORY_NOT_NUMERIC_SCORE","NO","Temporal incidence"
+"New Zealand","NZL","Latency
+robustness","Decrease in
++3/+5/+7; +10
+imprecise","Temporal incidence","QUALITATIVE_CATEGORY_NOT_NUMERIC_SCORE","NO","Temporal incidence"
+"New Zealand","NZL","Mortality
+acceleration","No","Mortality","QUALITATIVE_CATEGORY_NOT_NUMERIC_SCORE","NO","Mortality"
+"New Zealand","NZL","Histology
+evidence","Moderate
+Supplement","Histology","QUALITATIVE_CATEGORY_NOT_NUMERIC_SCORE","NO","Histology"
+"New Zealand","NZL","Diagnostic-era
+concern","Moderate","Bias/context","QUALITATIVE_CATEGORY_NOT_NUMERIC_SCORE","NO","Bias/context"
+"New Zealand","NZL","Source-continuity
+concern","Low","Bias/context","QUALITATIVE_CATEGORY_NOT_NUMERIC_SCORE","NO","Bias/context"
+"Croatia","HRV","Documented
+iodine policy","Yes
+Salt, 1996","Policy and UIC context","QUALITATIVE_CATEGORY_NOT_NUMERIC_SCORE","NO","Policy and UIC context"
+"Croatia","HRV","Population-UIC
+corroboration","Uncertain","Policy and UIC context","QUALITATIVE_CATEGORY_NOT_NUMERIC_SCORE","NO","population_UIC_corroboration_grade"
+"Croatia","HRV","Pre-policy
+incidence rise","Yes","Temporal incidence","QUALITATIVE_CATEGORY_NOT_NUMERIC_SCORE","NO","Temporal incidence"
+"Croatia","HRV","Post-5-year
+slope change","Increase","Temporal incidence","QUALITATIVE_CATEGORY_NOT_NUMERIC_SCORE","NO","Temporal incidence"
+"Croatia","HRV","Latency
+robustness","Positive across
+lags; start-window
+sensitive","Temporal incidence","QUALITATIVE_CATEGORY_NOT_NUMERIC_SCORE","NO","Temporal incidence"
+"Croatia","HRV","Mortality
+acceleration","No","Mortality","QUALITATIVE_CATEGORY_NOT_NUMERIC_SCORE","NO","Mortality"
+"Croatia","HRV","Histology
+evidence","Weak
+Text only","Histology","QUALITATIVE_CATEGORY_NOT_NUMERIC_SCORE","NO","Histology"
+"Croatia","HRV","Diagnostic-era
+concern","High","Bias/context","QUALITATIVE_CATEGORY_NOT_NUMERIC_SCORE","NO","Bias/context"
+"Croatia","HRV","Source-continuity
+concern","Moderate","Bias/context","QUALITATIVE_CATEGORY_NOT_NUMERIC_SCORE","NO","Bias/context"
